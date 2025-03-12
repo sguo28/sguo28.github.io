@@ -1,0 +1,94 @@
+# jemdoc: menu{MENU}{index.html}, title{Shuocheng Guo}, nofooter
+== Shuocheng Guo, Ph.D.
+
+~~~
+{}{img_left}{sguo.jpeg}{alt text}{200}{200}\n
+Research Scientist at Amazon Minerva\n
+E-mail: /sguo18/@ua.edu \n
+[https://github.com/sguo28/ Github] | [https://scholar.google.ca/citations?user=F_Om8WAAAAAJ&hl=en Google Scholar] |
+[https://www.researchgate.net/profile/Shuocheng-Guo-3/ ResearchGate] |
+[https://www.linkedin.com/in/sguo18/ LinkedIn] | [Shuocheng_Guo_Webpage.pdf CV]
+~~~
+
+== About Me
+
+I am currently working as a Research Scientist at Amazon, based in San Diego, CA.
+
+I earned my Ph.D. in Transportation System Engineering (TSE) from [https://www.ua.edu/ The University of Alabama (UA)]. My advisor was [https://profiles.rice.edu/faculty/xinwu-qian Dr. Xinwu Qian] (now at Rice University). For OR-related work, I worked closely with [https://dayarian.people.ua.edu/ Dr. Iman Dayarian] from the Culverhouse College of Business at UA.
+
+During my Ph.D. journey, I was actively involved in the growth of the [https://ati.ua.edu/ Alabama Transportation Institute (ATI)], where I contributed to multiple DOT projects. I was a primary contributor of [https://github.com/sguo28/DCA_Simulator an EV simulation platform] and the [https://news.ua.edu/2022/08/federal-award-to-help-ua-electrify-crimson-ride/ Electric Bus Program for UA Crimson Ride]. I am deeply thankful for the generous support and assistance provided by ATI.
+
+
+== Related Experience
+/Amazon - Minerva/, San Diego, CA (2025.2 - Now)\n
+Research Scientist\n
+
+/Amazon - AFT/, Bellevue, WA (2024.6 - 2024.9)\n
+Research Scientist Intern\n
+
+/Delta Air Lines - ODDS/, Atlanta, GA (2024.1 - 2024.5)\n
+Ph.D. Intern, Decision Scientist in Optimization\n
+
+== Education Background
+
+The University of Alabama, Tuscaloosa, AL (2020.8 - 2024.12)\n
+Ph.D. in Transportation Systems Engineering\n
+Advisor: [https://profiles.rice.edu/faculty/xinwu-qian Dr. Xinwu Qian]\n
+
+University of Illinois at Urbana-Champaign, Urbana, IL (2018.8 - 2020.5)\n
+M.S. in Transportation Systems Engineering\n
+Advisor: [https://publish.illinois.edu/kontou/home/ Dr. Eleftheria Kontou]\n
+
+Central South University, Changsha, China (2015.9 - 2018.6)\n
+B.S. in Civil Engineering\n
+
+== Recent Publications
+
+~~~
+I am currently seeking research collaborations in the areas of Electric Vehicles (EV), (electrified) transportation systems, and learning to solve OR problems.
+
+My work has been published in top-tier journals, including Transportation Research Parts A, B, C, D, and IEEE TITS.
+
+You can view a detailed list of my publications on my  [https://scholar.google.ca/citations?user=F_Om8WAAAAAJ&hl=en Google Scholar Profile].
+~~~
+
+- S. Guo, I. Dayarian, J. Li, X. Qian, "Solving the Equitable Dial-a-Ride Problem using a Branch-cut-and-price Algorithm", Transportation Research Part B: Methodological, 2025. [https://www.sciencedirect.com/science/article/abs/pii/S019126152400273X ScienceDirect]
+
+- S. Guo and X. Qian, "Optimal Drive-by Sensing in Urban Road Networks with Large-scale Ridesourcing Vehicles", IEEE Transactions on Intelligent Transportation Systems, 2024. [https://ieeexplore.ieee.org/document/10528258 IEEE Explore]
+
+- S. Guo, H. Chen, M. Rahman, and X. Qian, "DCA: Delayed Charging Attack on the Electric Shared Mobility System", IEEE Transactions on Intelligent Transportation Systems, 2023. [https://ieeexplore.ieee.org/document/10167758/ IEEE Explore]
+
+- S. Guo, X. Qian, S. Dasgupta, M. Rahman, and S. Jones, "Sensing and monitoring of urban roadway traffic state with large-scale ridesourcing vehicles", The Rise of Smart Cities: Advanced Structural Sensing and Monitoring Systems, Book Chapter, 2022. [https://www.sciencedirect.com/science/article/pii/B9780128177846000035 ScienceDirect]
+
+- S. Guo and E. Kontou, "Disparities and equity issues in electric vehicles rebate allocation", Energy Policy, 2021. [https://github.com/sguo28/codes-energy-policy Code] [https://www.sciencedirect.com/science/article/pii/S0301421521001609 ScienceDirect]
+
+== News
+- 2/2025 I joined Amazon as a Research Scientist!
+- 1/2025 One paper is accepted by TR Part B!
+- 1/2025 I will present my learning-based BPC work at a lectern session at TRBAM 2025 on Monday, January 6, 2025 from 1:30pm to 3:15pm EST. Looking forward to it!
+- 10/2024 I gave a talk on "an unsupervised learning-based branch-and-price algorithm for the Dial-A-Ride Problem" at INFORMS 2024 Annual Meeting. Happy to reconnect with familair faces and get to know new friends!
+- 9/2024 I completed my internship at Amazon! Looking forward to the next chapter.
+- 6/2024 I joined Amazon as an RS intern.
+- 5/2024 I gave one talk at ITE webminar on the equity-related transit research.
+- 5/2024 I successfully passed my Ph.D. final defense. It has been such a wonderful and rewarding Ph.D. journey at Alabama, which will always be my sweet home. Roll Tide!
+- 4/2024 One paper is accepted by IEEE Transactions on ITS!
+- 1/2024 I joined Delta Air Lines as a Ph.D. Intern at the Optimization Team!
+- 12/2023 I passed the proposal defense!
+- 10/2023 I presented my research on 2023 INFORMS Annual Meeting in Phoenix, AZ.
+- 6/2023 One paper is accepted by IEEE Transactions on ITS!
+- 4/2023 I was recognized as 2023 Outstanding PhD Researcher at CCEE Department at UA. Roll Tide!
+- 1/2023 At TRB 2023, I attended the Transit Data Challenge and presented at one poster section \& lectern section at Washington DC.
+- 11/2022 Our paratransit study has been selected as a finalist in the [https://www.trb-transit-mgmt-perf.org/annual-meetings/transit-data-challenge TRB 2023 Transit Data Challenge], see demo [https://sguo28.github.io/rdarp_visual/main_optimal.html here].
+- 10/2022 Four papers are accepted by TRBAM 23 (three lectern sections & one poster)
+- 10/2022 I passed the qualifying exam.
+- 10/2022 I gave one flash talk and present one poster on INFORMS Annual Meeting 2022 \[[https://meetings.informs.org/wordpress/indianapolis2022/ link]\]
+- 10/2022 One paper is accepted by TR Part C
+- 8/2022 I presented on the INFORMS Conference on Security 2022\[[https://meetings.informs.org/wordpress/2022security/agenda/ link]\]
+- 8/2022 One paper is presented in BTR 4
+- 7/2022 One paper is accepted by TR Part C
+- 7/2022 One paper is accepted by TR Part D
+- 4/2022 One paper is accepted by TR Part A
+- 1/2022 Four papers are presented in TRBAM 22
+- 8/2021 One paper is presented in WSTLUR 21 \[[https://pheedloop.com/WSTLUR2021/site/sessions/?id=SESP57KA7GAB2RTL7 link]\]
+- 8/2021 One paper is presented in BTR 3
+- 1/2021 One paper is presented in TRBAM 21
