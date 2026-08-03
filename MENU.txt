@@ -1,7 +1,5 @@
 Menu
 	Home			[index.html]
-	Demo			[demos.html]
-	Miscellaneous		[misc.html]
 Useful links
 	Kepler.gl		[https://kepler.gl/]
 	Leaflet.js		[https://leafletjs.com/]
